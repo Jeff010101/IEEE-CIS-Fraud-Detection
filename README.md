@@ -1,2 +1,4 @@
 # IEEE-CIS-Fraud-Detection
-A kaggle competition
+
+## News
+* ~~25. July. 2019: Dataset and Project birth~~
