@@ -45,7 +45,7 @@ TARGET = 'isFraud'
 ########################### DATA LOAD
 #################################################################################
 print('Load Data')
-train_df = pd.read_pickle('D:/Document/Computer_Vision/Competition/Kaggle_CIS/Code/train_transaction.pkl')
+train_df = pd.read_pickle('data/processed-cis/train_transaction.pkl')
 
 if LOCAL_TEST:
     test_df = train_df.iloc[-100000:, ].reset_index(drop=True)
