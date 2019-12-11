@@ -12,7 +12,6 @@ This is for [IEEE-CIS competition](https://www.kaggle.com/c/ieee-fraud-detection
     |   └── processed-cis                  
     |       └── ***                        # compress data
     └── README.md
-### Results
 
 ## News
 * ~~25. July. 2019: Dataset and Project birth~~
